@@ -1,8 +1,8 @@
-# Olympic-Tokyo2021
-Overview
+## Olympic-Tokyo2021
+#Overview
 This project involved the analysis of Olympic data related to the Tokyo Olympics 2020 using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, Azure Databricks, and Power BI. The goal was to extract, transform, load, and analyze Olympic data to gain insights and create informative dashboards and reports.
 
-Project Steps
+#Project Steps
 1. Data Collection and Preparation
 A storage account was created, including a container containing two files, one of which served as the data file. The data was loaded into Data Lake Gen 2.
 Data was integrated from GitHub, comprising five Excel files through Azure Data Factory using data pipelines.
